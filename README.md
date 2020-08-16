@@ -5,7 +5,7 @@
 - Algorithm - Sort - https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/
 
 # Tools
-- Github
+- Github - https://docs.github.com/en/github/getting-started-with-github
 
 # Languages
 - Python
@@ -13,3 +13,4 @@
 - Bash
 - Java
 
+# Searching skill and curiousity
